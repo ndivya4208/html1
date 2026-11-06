@@ -1,0 +1,23 @@
+h1{
+    color:brown;
+    background-color: burlywood;
+}
+body{
+    background-color: rgb(232, 121, 143);
+    color: aliceblue;
+}
+h3{
+    color:rgb(242, 184, 11);
+}
+table{
+    color: rgb(148, 3, 80);
+}
+#h1{
+    color: black;
+}
+#ol{
+    color: rgb(70, 25, 25);
+}
+#ee{
+    color: black;
+}
